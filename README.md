@@ -47,7 +47,7 @@ A summary of the cumulative profits is determined.
 
 ![image_6_BTC_Bitstamp_vs_Coinbase_Early_profits_cumulative](https://user-images.githubusercontent.com/95830866/149705810-24ff7710-4cf4-4819-8609-dc858187fed9.PNG)
 
-*The same analysis is completed for a day in the middle (Feb-27-2018) of the data set and a day at the end (Mar-28-2818) of the data set. We attempt to reach conclusion about the data and what arbitrage opportinuites can be found. 
+*The same analysis is completed for a day in the middle (Feb-27-2018) of the data set and a day at the end (Mar-28-2818) of the data set. We attempt to reach conclusion about the data and what arbitrage opportinuites can be found.* 
 
 For this data set, we find there are arbitrage opportunities between the two exchanges. We find high trading profits during the months of January and Febuary with pleaty of positive trade, however in March we see the trading risk rise as the number of successful trade and the profits to be made drop dramatically. 
 
