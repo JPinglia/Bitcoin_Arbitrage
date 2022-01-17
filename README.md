@@ -40,9 +40,11 @@ A box plot is created to help understand the data set.
 ![image_4_BTC_Bitstamp_vs_Coinbase_Early](https://user-images.githubusercontent.com/95830866/149705700-887c9817-c0ed-4120-8605-3e73f6bd5feb.PNG)
 
 Profits for this day during the "Early" period in the data set are considered. 
+
 ![image_5_BTC_Bitstamp_vs_Coinbase_Early_profits](https://user-images.githubusercontent.com/95830866/149705758-4b89dca0-ebf4-489c-a357-b398f5a3e999.PNG)
 
 A summary of the cumulative profits is determined. 
+
 ![image_6_BTC_Bitstamp_vs_Coinbase_Early_profits_cumulative](https://user-images.githubusercontent.com/95830866/149705810-24ff7710-4cf4-4819-8609-dc858187fed9.PNG)
 
 *The same analysis is completed for a day in the middle (Feb-27-2018) of the data set and a day at the end (Mar-28-2818) of the data set. We attempt to reach conclusion about the data and what arbitrage opportinuites can be found. 
