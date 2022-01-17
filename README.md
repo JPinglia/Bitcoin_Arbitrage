@@ -33,7 +33,7 @@ Here is a overlay of prices over a three month period.*
 we can see price dislocations between the two exchanges. Lets dive deeper into the month of January.
 ![image_2_BTC_Bitstamp_vs_Coinbase_Jan](https://user-images.githubusercontent.com/95830866/149705571-e4e54494-afef-4b0f-a981-0f257df80a04.PNG)
 
-Lets dive further still to Jan 27 2018 and we find large disloacations between the two said exchanges. 
+Lets dive further still to Jan 27 2018 and we find large dislocations between the two said exchanges. 
 ![image_3_BTC_Bitstamp_vs_Coinbase_Jan_27_2018](https://user-images.githubusercontent.com/95830866/149705652-7bc4645c-63ac-469e-a196-461c5ed99c47.PNG)
 
 A box plot is created to help understand the data set. 
